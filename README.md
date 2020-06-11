@@ -1,2 +1,7 @@
 # First-React-app
-First react app of TodoList.
+## React App with TodoList.
+- You can add to the list.
+- Mark completed if you complete the task. 
+- Delete the task if You did'nt want it. 
+## Snap.
+![](snp/t.png)
